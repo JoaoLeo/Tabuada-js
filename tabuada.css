@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+body{
+    background-color: rgb(48, 146, 216);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section{
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 25px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
